@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chinonso1738
 - 👀 I’m interested in html ,css ,java script 
 - 🌱 I’m currently learning front end web development
-- 💞️ I’m looking to collaborate on building great wesites with great user interface
+- 💞️ I’m looking to collaborate on building great websites with great user interface
 - 📫 How to reach me ...obidikechinonso96@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
